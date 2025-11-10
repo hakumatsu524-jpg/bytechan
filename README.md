@@ -1,5 +1,7 @@
 # ByteChan (BTC) - Privacy-First Cryptocurrency
 
+CA: soon
+
 <p align="center">
   <img src="assets/bytechan-logo.png" alt="ByteChan Logo" width="300"/>
 </p>
@@ -240,19 +242,6 @@ pytest tests/ --cov=bytechan
 flake8 bytechan/
 black bytechan/
 \`\`\`
-
-## 📄 License
-
-ByteChan is released under the MIT License. See [LICENSE](LICENSE) for details.
-
-## 🔗 Links
-
-- **Website**: https://bytechan.org
-- **Explorer**: https://explorer.bytechan.org
-- **Documentation**: https://docs.bytechan.org
-- **Forum**: https://forum.bytechan.org
-- **Discord**: https://discord.gg/bytechan
-- **Twitter**: https://twitter.com/bytechan_btc
 
 ## ⚠️ Disclaimer
 
