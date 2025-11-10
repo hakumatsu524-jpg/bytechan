@@ -1,6 +1,6 @@
-# ByteChan (BTC) - Privacy-First Cryptocurrency
+# Byte-Chan (BYTECHAN) - Privacy-First Cryptocurrency
 
-CA: soon
+CA: 3wdRgjmRHNxEkyfrd7ZTbz8PYDxgEZVW942CLJe8pump
 
 <p align="center">
   <img src="assets/bytechan-logo.png" alt="ByteChan Logo" width="300"/>
